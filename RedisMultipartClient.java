@@ -1,4 +1,4 @@
-package com.hyt.it.ogt.data.cloudefile.common;
+package com.sakura;
 
 import cn.hutool.extra.spring.SpringUtil;
 import com.google.common.collect.Maps;
@@ -10,10 +10,8 @@ import redis.clients.jedis.JedisPoolConfig;
 import java.util.Map;
 
 /**
- * @program: it-ogt-data-cloudefile
  * @description: Redis多库客户端
- * @author: Yang HuanKun
- * @create: 2023-02-15 17:33
+ * @author: Yang Sakura
  **/
 public class RedisMultipartClient {
 
